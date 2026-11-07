@@ -209,4 +209,4 @@ This repository serves as the official landing page for ESET Internet Security. 
 **Get the most recent version of ESET Internet Security today!**
 
 ---
-**Last updated:** 2026-11-07 15:21:40 UTC
+**Last updated:** 2026-11-07 19:48:29 UTC
